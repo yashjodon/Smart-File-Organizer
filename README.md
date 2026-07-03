@@ -28,22 +28,6 @@ A Python application that automatically organizes files into categorized folders
 - datetime
 
 ---
-
-## 📸 Screenshots
-
-### CLI Version
-
-
-![CLI Screenshot](screenshots/ss1.png)
-
----
-
-### GUI Version
-
-![GUI Screenshot](screenshots/ss3.png)
-
----
-
 ## 📂 Project Structure
 
 ```text
