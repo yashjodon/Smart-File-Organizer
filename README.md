@@ -46,6 +46,35 @@ Smart-File-Organizer/
 ```
 
 ---
+## Requirements
+
+Before running this project, make sure you have:
+
+* Python 3.10 or later
+* Tkinter installed on your system (usually included with Python on Windows and macOS)
+
+### Linux
+
+If Tkinter is not installed, install it using your distribution's package manager.
+
+**Ubuntu/Debian**
+
+```bash
+sudo apt install python3-tk
+```
+
+**Fedora**
+
+```bash
+sudo dnf install python3-tkinter
+```
+
+**Arch Linux**
+
+```bash
+sudo pacman -S tk
+```
+
 
 ## 🚀 Installation
 
